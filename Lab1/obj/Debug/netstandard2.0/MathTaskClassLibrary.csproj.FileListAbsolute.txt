@@ -1,0 +1,9 @@
+H:\Lab1\Lab1\bin\Debug\netstandard2.0\MathTaskClassLibrary.deps.json
+H:\Lab1\Lab1\bin\Debug\netstandard2.0\MathTaskClassLibrary.dll
+H:\Lab1\Lab1\bin\Debug\netstandard2.0\MathTaskClassLibrary.pdb
+H:\Lab1\Lab1\obj\Debug\netstandard2.0\MathTaskClassLibrary.csprojAssemblyReference.cache
+H:\Lab1\Lab1\obj\Debug\netstandard2.0\MathTaskClassLibrary.csproj.CoreCompileInputs.cache
+H:\Lab1\Lab1\obj\Debug\netstandard2.0\MathTaskClassLibrary.AssemblyInfoInputs.cache
+H:\Lab1\Lab1\obj\Debug\netstandard2.0\MathTaskClassLibrary.AssemblyInfo.cs
+H:\Lab1\Lab1\obj\Debug\netstandard2.0\MathTaskClassLibrary.dll
+H:\Lab1\Lab1\obj\Debug\netstandard2.0\MathTaskClassLibrary.pdb
